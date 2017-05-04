@@ -6,7 +6,7 @@
 	</tr>
 	<tr>
 		<td>1.</td>
-		<td>H1101151027</td>
-		<td>Raras</td>
+		<td>H1101151054</td>
+		<td>Agus</td>
 	</tr>
 </table>
