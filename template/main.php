@@ -3,16 +3,6 @@ include_once 'navigasi.php';
 include_once 'header.php';
 ?>
 
-    <!-- Page Content -->
-    <div class="container">
-
-
-
-        <div class="row">
-
-            <!-- Blog Entries Column -->
-            <div class="col-md-8">
-
                 <!-- First Blog Post -->
                 <h2>
                     <a href="#">Blog Post Title</a>
