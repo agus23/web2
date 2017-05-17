@@ -1,2 +1,1 @@
-# web2
-kelas pw2b
+# paraktekweb2
