@@ -1,5 +1,4 @@
-
-    <!-- Page Content -->
+ <!-- Page Content -->
     <div class="container">
 
         <!-- Page Heading/Breadcrumbs -->
@@ -15,6 +14,4 @@
                 </ol>
             </div>
         </div>
-        <!-- /.row -->
-
-        <div class="row">
+<!-- /.row -->

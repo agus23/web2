@@ -1,10 +1,15 @@
 <?php 
-
-require_once 'view/UtamaUI.php';
-$uui = new UtamaUI;
-$uui->tampilkanBerita();
-
-
-
-
+require_once 'View.php';
+/**
+* 
+*/
+class UtamaUI extends View
+{
+	
+	public function tampilkanBerita()
+	{
+		include_once 'pages/beranda.php';
+		$this->end();
+	}
+}
  ?>
