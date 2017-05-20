@@ -1,8 +1,7 @@
 <?php 
-$buah = array (
-				array ("buah"=>"Pepaya","banyak"=>"1", "tambahan"=>"kecap"), 
+$buah = array ( array ("buah"=>"Pepaya","banyak"=>"1", "tambahan"=>"kecap"), 
 				array ("buah"=>"Mangga","banyak"=>"3", "tambahan"=>"susu"), 
- 				array ("buah"=>"Pisang","banyak"=>"5", "tambahan"=>"sambal")
+ 				array ("buah"=>"Pisang","banyak"=>"5", "tambahan"=>"sambal")	
 	);
  ?>
 <!DOCTYPE>
