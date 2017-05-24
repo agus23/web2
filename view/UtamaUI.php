@@ -3,12 +3,13 @@ require_once 'View.php';
 /**
 * 
 */
-class UtamaUI extends View
+class UtamaUi extends View
 {
 	
 	public function tampilkanBerita()
 	{
 		include_once 'pages/beranda.php';
+		include_once 'model/Berita.php';
 		$this->end();
 	}
 }
