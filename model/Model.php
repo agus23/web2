@@ -8,6 +8,7 @@ class Model
 	
 	function __construct()
 	{
+
 		require_once 'config/database.php';
 		 try {
 	        $this->db = new PDO("mysql:host={$host};dbname={$dbname}", $username, $password);
@@ -17,4 +18,6 @@ class Model
 	    }
 	}
 }
+
+
  ?>
